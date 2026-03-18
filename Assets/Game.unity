@@ -130,7 +130,7 @@ GameObject:
   - component: {fileID: 20093723}
   - component: {fileID: 20093722}
   m_Layer: 0
-  m_Name: demo01_PixelSky_layer03_0
+  m_Name: "\u524D\u666F"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -179,7 +179,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 2
   m_Sprite: {fileID: -3344930476313059213, guid: 30eeb7e1d146b564291ac1b6d6c720db, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -262,7 +262,7 @@ GameObject:
   - component: {fileID: 1634713676}
   - component: {fileID: 1634713675}
   m_Layer: 0
-  m_Name: demo01_PixelSky_layer01_0
+  m_Name: "\u5F8C\u666F"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -486,7 +486,7 @@ GameObject:
   - component: {fileID: 2010544241}
   - component: {fileID: 2010544240}
   m_Layer: 0
-  m_Name: demo01_PixelSky_layer02_0
+  m_Name: "\u4E2D\u666F"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -535,7 +535,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: 1868260715369797666, guid: 5f14d0899cb3ca949b99fee0ee27e2dd, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
